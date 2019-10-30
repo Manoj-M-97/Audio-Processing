@@ -11,7 +11,8 @@ To install:
 1) pip install SpeechRecognition
 2) pip install Pydub
 3) //If when you run the code, if there is a warning from Pydub library for the package ffmpeg, install it.
-	pip install ffmpeg
+
+pip install ffmpeg
 
 To run:
 python audio_processing.py
